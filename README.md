@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anushka Anu</h1>
+<h1 align="center">Hi 👋, I'm Anuska Anu</h1>
 
 <h3 align="center">
 Information Technology Undergraduate | Full Stack Developer | Software Engineering Enthusiast
