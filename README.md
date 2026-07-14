@@ -1,26 +1,38 @@
-<h1 align="center">Hi 👋, I'm Anuska Anu</h1>
-
-<h3 align="center">
-Information Technology Undergraduate | Software Developer 
-</h3>
+<h1 align="center">Hi 👋, I'm Anushka Anu</h1>
+<h3 align="center">Information Technology Undergraduate | Software Developer </h3>
 
 <p align="center">
-Building scalable web & mobile applications while exploring AI, Blockchain and Game Development.
+  <a href="mailto:anushkaanu7439@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anushkaanu7439%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/anuska-anu-709539237">
+    <img src="https://img.shields.io/badge/LinkedIn-Anushka-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Information Technology @ Cochin University of Science and Technology (CUSAT)
+🎓 B.Tech Information Technology @ CUSAT
 
 💼 React Developer Intern @ Mind Empowered
 
-💻 Passionate about Software Engineering, Backend Development, Full Stack Development and Game Development.
+🌱 Currently learning
 
+- System Design
+- Unreal Engine 5
+- Blockchain
+- AI
 
+💻 Interested in
 
-⚡ I enjoy solving real-world problems by building practical software solutions.
+- Software Engineering
+- Backend Development
+- Full Stack Development
+- Game Development
+
+🚀 I enjoy building applications that solve real-world problems while continuously exploring new technologies.
 
 ---
 
@@ -28,43 +40,23 @@ Building scalable web & mobile applications while exploring AI, Blockchain and G
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+C • C++ • Python • JavaScript • Dart
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+React • HTML • CSS • Bootstrap • Flutter
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+Node.js • PHP • Express
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
+MySQL • Supabase
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+Git • GitHub • VS Code 
 
 ---
 
@@ -72,7 +64,7 @@ Building scalable web & mobile applications while exploring AI, Blockchain and G
 
 ### 🛒 ME Marketplace
 
-A full-stack marketplace ecosystem with dedicated buyer and seller portals, product management and responsive UI.
+A full-stack marketplace ecosystem with dedicated buyer and seller portals featuring product management, authentication and responsive design.
 
 ### 📸 CUCEK Photography Club
 
@@ -80,22 +72,18 @@ Backend developer for the official photography club website with authentication 
 
 ### 🍽 SaveBite
 
-A Flutter application that helps reduce food waste by connecting restaurants with users.
+Flutter application connecting restaurants with users to reduce food waste.
 
 ### 🌸 FemiTrack
 
-Women's health tracking application.
+Women's health tracking platform.
 
-🏆 Top 3 — Kerala Women's Hackathon.
+🏆 Top 3 at Kerala Women's Hackathon.
 
-
-
-## 📫 Connect with Me
+]
+## 📫 Reach Me
 
 📧 anushkaanu7439@gmail.com
 
-💼 www.linkedin.com/in/anuska-anu
-
-🐙 github.com/anushka2819
-
----
+💼 LinkedIn:
+https://linkedin.com/in/anuska-anu-709539237
