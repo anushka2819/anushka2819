@@ -18,12 +18,7 @@ Building scalable web & mobile applications while exploring AI, Blockchain and G
 
 💻 Passionate about Software Engineering, Backend Development, Full Stack Development and Game Development.
 
-🌱 Currently Learning
 
-- System Design
-- Unreal Engine 5
-- Blockchain
-- Artificial Intelligence
 
 ⚡ I enjoy solving real-world problems by building practical software solutions.
 
@@ -61,8 +56,6 @@ Building scalable web & mobile applications while exploring AI, Blockchain and G
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase)
 
 ### Tools
@@ -72,10 +65,6 @@ Building scalable web & mobile applications while exploring AI, Blockchain and G
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
@@ -104,14 +93,6 @@ Women's health tracking application.
 3D Crime Investigation Simulator built using Unreal Engine 5.
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=anushka2819&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushka2819&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=anushka2819&theme=tokyonight)
 
 ---
 
