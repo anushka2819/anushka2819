@@ -80,7 +80,6 @@ Women's health tracking platform.
 
 🏆 Top 3 at Kerala Women's Hackathon.
 
-]
 ## 📫 Reach Me
 
 📧 anushkaanu7439@gmail.com
