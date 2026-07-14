@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuska Anu</h1>
 
 <h3 align="center">
-Information Technology Undergraduate | Full Stack Developer | Software Engineering Enthusiast
+Information Technology Undergraduate | Software Developer 
 </h3>
 
 <p align="center">
