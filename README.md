@@ -88,13 +88,7 @@ Women's health tracking application.
 
 🏆 Top 3 — Kerala Women's Hackathon.
 
-### 🔎 Evidence
 
-3D Crime Investigation Simulator built using Unreal Engine 5.
-
----
-
----
 
 ## 📫 Connect with Me
 
