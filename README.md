@@ -20,8 +20,6 @@
 
 🌱 Currently learning
 
-- System Design
-- Unreal Engine 5
 - Blockchain
 - AI
 
