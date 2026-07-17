@@ -28,7 +28,6 @@
 - Software Engineering
 - Backend Development
 - Full Stack Development
-- Game Development
 
 🚀 I enjoy building applications that solve real-world problems while continuously exploring new technologies.
 
