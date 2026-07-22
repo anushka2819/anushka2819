@@ -18,16 +18,10 @@
 
 💼 React Developer Intern @ Mind Empowered
 
-🌱 Currently learning
-
-- Blockchain
-- AI
-
 💻 Interested in
 
 - Software Engineering
 - Backend Development
-- Full Stack Development
 
 🚀 I enjoy building applications that solve real-world problems while continuously exploring new technologies.
 
