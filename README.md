@@ -16,8 +16,6 @@
 
 🎓 B.Tech Information Technology @ CUSAT
 
-💼 React Developer Intern @ Mind Empowered
-
 💻 Interested in
 
 - Software Engineering
